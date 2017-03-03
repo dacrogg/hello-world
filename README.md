@@ -1,2 +1,4 @@
 # hello-world
-first repository
+hi humans!
+
+this is shawn wang here, i like all good codes!
